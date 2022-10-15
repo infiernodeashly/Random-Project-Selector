@@ -1,7 +1,7 @@
 # Random-Project-Selector
 
 Repository: https://github.com/infiernodeashly/Random-Project-Selector
-URL: https://infiernodeashly.github.io/Random-Project-Selector/#ReadMe
+URL: https://infiernodeashly.github.io/Random-Project-Selector/
 
 
 ## Description 
